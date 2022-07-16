@@ -776,6 +776,9 @@ body {
         margin-bottom: 1300px;
         top: 350px;
     }
+    .footer__btn {
+        top: -3px;
+    }    
 }
 @media (max-width: 850px) {
     .graph__inner {
