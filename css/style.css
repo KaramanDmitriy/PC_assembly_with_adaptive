@@ -683,8 +683,8 @@ body {
     .wood-left__item2::before,
     .wood-left__item3::before, 
     .wood-left__item1::before,
-    .wood-left__item2::before
-    .wood-left__item3::before
+    .wood-left__item2::before,
+    .wood-left__item3::before,
     .wood-left__item4::before{
         display: none;
     }
