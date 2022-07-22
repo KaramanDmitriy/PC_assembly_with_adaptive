@@ -679,9 +679,9 @@ body {
     .mentors__items {
         flex-wrap: wrap;
     }
-    .wood-left__right1::before,
-    .wood-left__right2::before,
-    .wood-left__right3::before, 
+    .wood-right__item1::before,
+    .wood-right__item2::before,
+    .wood-right__item3::before, 
     .wood-left__item1::before,
     .wood-left__item2::before,
     .wood-left__item3::before,
