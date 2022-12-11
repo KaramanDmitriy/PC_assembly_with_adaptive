@@ -541,7 +541,7 @@ body {
 }
 .footer__input {
     display: inline-block;
-    max-width: 353px;
+    width: 353px;
     height: 44px;
     border-radius: 50px 0px 0px 50px;
     padding-left: 30px;
