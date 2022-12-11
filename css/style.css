@@ -797,12 +797,12 @@ body {
 }
 @media (max-width: 800px) {
     .line-bar {
-        width: 500px;
+        max-width: 500px;
         height: 6px;
         margin-top: 15px;
     }
     .line-bar::before {
-        width: 300px;
+        max-width: 300px;
     }
     .line-right {
         left: 399px;
