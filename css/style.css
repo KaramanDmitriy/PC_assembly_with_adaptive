@@ -138,11 +138,11 @@ body {
     margin-right: 10px;
 }
 .progress-bar__line {
-    min-width: 715px;
+    max-width: 715px;
 }
 .line-bar {
     background-color: #fff;
-    width: 714px;
+    max-width: 714px;
     height: 6px;
     margin-top: 13px;
 
@@ -151,7 +151,7 @@ body {
     content: '';
     position: absolute;
     background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
-    width: 440px;
+    max-width: 440px;
     height: 6px;
 }
 .line-text {
@@ -167,7 +167,7 @@ body {
 }
 .question__frame {
     position: relative;
-    width: 526px;
+    max-width: 526px;
 
 }
 .absolute-png {
@@ -192,7 +192,7 @@ body {
     opacity: 0.5;
 }
 .graph__text {
-    width: 411px;
+    max-width: 411px;
 }
 .graph__wrapper {
     position: relative;
@@ -530,7 +530,7 @@ body {
 .footer__text {
     opacity: 0.5;
     text-align: center;
-    width: 411px;
+    max-width: 411px;
     margin: 0 auto 60px;
 }
 .footer__form {
@@ -541,7 +541,7 @@ body {
 }
 .footer__input {
     display: inline-block;
-    width: 353px;
+    max-width: 353px;
     height: 44px;
     border-radius: 50px 0px 0px 50px;
     padding-left: 30px;
